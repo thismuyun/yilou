@@ -1,0 +1,25 @@
+{
+  "name": "yilou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thismuyun/yilou.git"
+  },
+  "author": "muyun.li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thismuyun/yilou/issues"
+  },
+  "homepage": "https://github.com/thismuyun/yilou#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
